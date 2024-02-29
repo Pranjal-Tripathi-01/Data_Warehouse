@@ -2,7 +2,7 @@
 <bookstore>
   <book category="fiction">
     <title lang="en">Harry Potter</title>
-    <author>Pranjal Tripathi</author>
+    <author>Shreyash Tripathi</author>
     <year>2005</year>
     <price>29.99</price>
   </book>
